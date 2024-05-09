@@ -1,0 +1,16 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.numbers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    color: black;
+    border-radius: 50px;
+    width: 65px;
+    height: 65px;
+    border: 2px solid black;
+    font-size: 30px;
+}
